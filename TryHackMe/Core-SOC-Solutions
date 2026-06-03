@@ -60,16 +60,16 @@ During the practical exercises, I:
 - Reviewed security events and log sources
 - Practiced identifying relevant events during investigations
 
-### Elastic
+- Elastic
 
 Using Elastic and Kibana, I:
 
-* Navigated dashboards and visualizations
-* Explored security event data
-* Applied filters to investigate activity
-* Reviewed host and network-related logs
-* Examined alerts and security findings
-* Practiced log analysis within a SIEM environment
+- Navigated dashboards and visualizations
+- Explored security event data
+- Applied filters to investigate activity
+- Reviewed host and network-related logs
+- Examined alerts and security findings
+- Practiced log analysis within a SIEM environment
 
 SOC Workflow Observed
 
