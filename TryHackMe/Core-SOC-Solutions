@@ -1,0 +1,113 @@
+TryHackMe Room: Core SOC Solutions
+
+ Overview
+
+The Core SOC Solutions room introduced the fundamental technologies and workflows used within a Security Operations Center (SOC). The room focused on how analysts leverage security tools to monitor environments, investigate alerts, and respond to potential threats.
+
+In addition to learning the theory behind SOC operations, I gained practical experience using Splunk and Elastic to explore and analyze security-related log data.
+
+
+
+ Objectives
+
+- Understand the purpose of a Security Operations Center
+- Learn the role of SIEM platforms in security monitoring
+- Explore common SOC technologies and workflows
+- Gain hands-on experience with Splunk and Elastic
+- Understand how analysts investigate and validate alerts
+
+
+
+ Core SOC Technologies
+
+- Security Information and Event Management (SIEM)
+
+SIEM platforms collect, normalize, and analyze logs from multiple sources, providing centralized visibility across an organization's environment.
+
+Examples include:
+
+- Splunk
+- Elastic Security
+- Microsoft Sentinel
+- IBM QRadar
+
+These platforms help analysts detect suspicious activity, investigate incidents, and support incident response efforts.
+
+- Endpoint Detection and Response (EDR)
+
+EDR solutions monitor endpoint activity and provide visibility into potentially malicious behavior occurring on systems and devices.
+
+- Threat Intelligence
+
+Threat intelligence helps analysts identify known malicious indicators such as IP addresses, domains, hashes, and attacker techniques.
+
+- Security Orchestration, Automation, and Response (SOAR)
+
+SOAR platforms automate repetitive tasks and improve response efficiency through predefined workflows and playbooks.
+
+
+
+ Hands-On SIEM Practice
+
+ Splunk
+
+During the practical exercises, I:
+
+- Explored indexed log data
+- Performed searches using SPL (Search Processing Language)
+- Filtered events based on keywords and fields
+- Investigated authentication-related activity
+- Reviewed security events and log sources
+- Practiced identifying relevant events during investigations
+
+### Elastic
+
+Using Elastic and Kibana, I:
+
+* Navigated dashboards and visualizations
+* Explored security event data
+* Applied filters to investigate activity
+* Reviewed host and network-related logs
+* Examined alerts and security findings
+* Practiced log analysis within a SIEM environment
+
+SOC Workflow Observed
+
+The room demonstrated a typical SOC investigation process:
+
+1. Alert Generation
+2. Alert Triage
+3. Investigation and Analysis
+4. Threat Validation
+5. Escalation or Response
+6. Documentation and Closure
+
+ Skills Developed
+
+- Security monitoring
+- Log analysis
+- Alert triage
+- Event correlation
+- SIEM investigation
+- SPL searching
+- Dashboard analysis
+- Security operations workflow understanding
+
+
+ Key Takeaways
+
+- SIEM platforms provide centralized visibility across an environment.
+- Effective investigations require both technical analysis and contextual understanding.
+- Splunk and Elastic are powerful tools for searching and analyzing security events.
+- SOC analysts rely on multiple technologies working together to detect and respond to threats.
+- Proper alert triage helps prioritize incidents and reduce false positives.
+
+ Conclusion
+
+The Core SOC Solutions room provided a practical introduction to modern SOC operations and the technologies used by security teams. Through both theoretical concepts and hands-on SIEM exercises, I gained a better understanding of how analysts investigate alerts, analyze logs, and support incident response activities.
+
+This room strengthened my knowledge of SOC workflows and improved my confidence using Splunk and Elastic for security investigations.
+
+Status
+
+Completed – Core SOC Technologies and SIEM Fundamentals
