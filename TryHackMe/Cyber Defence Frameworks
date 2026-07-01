@@ -1,0 +1,42 @@
+Cyber Defence Frameworks – SOC Report
+
+Overview
+This exercise introduced key cyber defence frameworks used by Security Operations Centers (SOCs) to detect, investigate, and respond to cyber threats.
+Frameworks Covered
+
+MITRE ATT&CK: Maps attacker tactics and techniques to improve threat detection and threat hunting.
+
+Cyber Kill Chain: Breaks down the stages of an attack, helping defenders detect and stop threats early.
+
+NIST Cybersecurity Framework (CSF): Provides five core functions Identify, Protect, Detect, Respond, and Recover to strengthen organizational security.
+
+NIST Incident Response Lifecycle: Guides incident handling through preparation, detection, containment, eradication, recovery, and lessons learned.
+
+Diamond Model: Correlates adversaries, infrastructure, capabilities, and victims during investigations.
+
+Pyramid of Pain: Emphasizes detecting attacker TTPs over easily changed indicators like IP addresses and hashes.
+
+Key Takeaways
+
+Improved understanding of widely used cyber defence frameworks.
+
+Learned how SOC analysts map alerts to attacker behavior.
+
+Gained insight into structured incident response and threat detection strategies.
+
+Developed knowledge of security governance and defensive operations.
+
+Skills Demonstrated
+
+Threat Detection
+
+Incident Response
+
+Threat Hunting
+
+Security Operations (SOC)
+
+MITRE ATT&CK Mapping
+
+Cyber Defence Fundamentals
+
