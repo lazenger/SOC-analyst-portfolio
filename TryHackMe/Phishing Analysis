@@ -1,0 +1,28 @@
+Phishing Analysis – SOC Report
+
+Overview
+This room focused on analyzing phishing emails by examining email headers, sender information, URLs, attachments, and indicators of compromise (IOCs) to determine whether an email is malicious.
+Tasks Performed
+
+Analyzed email headers to verify the sender's identity.
+Inspected email content for phishing indicators.
+Examined URLs and attachments for malicious activity.
+Identified common social engineering techniques.
+Collected Indicators of Compromise (IOCs) for investigation.
+
+Key Findings
+
+Identified spoofed sender information and suspicious email headers.
+Detected malicious links designed to steal user credentials.
+Recognized phishing techniques such as urgency, impersonation, and deceptive language.
+Extracted IOCs to support incident investigation and detection.
+
+Skills Demonstrated
+
+Email Header Analysis
+Phishing Detection
+IOC Identification
+Social Engineering Analysis
+Threat Investigation
+SOC Analyst Fundamentals
+
