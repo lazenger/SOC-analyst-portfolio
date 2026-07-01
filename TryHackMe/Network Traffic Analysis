@@ -1,0 +1,30 @@
+
+Network Traffic Analysis – SOC Report
+
+Overview
+
+This room introduced the fundamentals of network traffic analysis using packet captures (PCAPs) to identify normal and suspicious network activity during security investigations.
+Tasks Performed
+
+Analyzed network traffic using Wireshark.
+
+Applied filters to isolate relevant packets and protocols.
+Examined common protocols, including HTTP, DNS, TCP, and ICMP.
+Identified suspicious network behavior and extracted Indicators of Compromise (IOCs).
+
+Key Findings
+
+Investigated network communications to identify potential threats.
+Detected anomalous traffic using protocol and packet analysis.
+Correlated network evidence to support incident investigations.
+Improved visibility into attacker activity through packet analysis.
+
+Skills Demonstrated
+
+Network Traffic Analysis
+Wireshark
+Packet Analysis
+Protocol Analysis (TCP, HTTP, DNS, ICMP)
+IOC Identification
+SOC Investigation Fundamentals
+
